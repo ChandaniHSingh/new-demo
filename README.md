@@ -1,5 +1,5 @@
 # new-demo
 New demo projects
 
-#Getting Started
+## Getting Started
 We have to start with core and then dive into advanced features
